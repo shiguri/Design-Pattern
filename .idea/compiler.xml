@@ -6,10 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Observer-Pattern" />
+        <module name="Factory-Pattern" />
         <module name="Strategy-Pattern" />
+        <module name="Observer-Pattern" />
         <module name="Decorator-Pattern" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Decorator-Pattern" target="1.5" />
+      <module name="Factory" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
