@@ -1,5 +1,8 @@
 package command;
 
+/**
+ * 持有命令对象
+ */
 public class SimpleRemoteControl {
     private Command slot;
 

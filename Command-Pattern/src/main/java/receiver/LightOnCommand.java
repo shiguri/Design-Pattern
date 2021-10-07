@@ -1,4 +1,4 @@
-package invoker;
+package receiver;
 
 import command.Command;
 

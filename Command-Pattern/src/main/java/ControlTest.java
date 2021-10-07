@@ -1,6 +1,6 @@
 import command.SimpleRemoteControl;
-import invoker.Light;
-import invoker.LightOnCommand;
+import receiver.Light;
+import receiver.LightOnCommand;
 
 public class ControlTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package invoker;
+package receiver;
 
 public class Light {
     private boolean lightIsOn;
