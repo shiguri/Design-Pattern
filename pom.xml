@@ -15,6 +15,7 @@
         <module>Factory-Pattern</module>
         <module>Abstract-Factory-Pattern</module>
         <module>Singleton-Pattern</module>
+        <module>Command-Pattern</module>
     </modules>
 
 

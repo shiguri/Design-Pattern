@@ -7,9 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Singleton-Pattern" />
-        <module name="Abstract-Factory-Pattern" />
         <module name="Factory-Pattern" />
+        <module name="Command-Pattern" />
         <module name="Strategy-Pattern" />
+        <module name="Abstract-Factory-Pattern" />
         <module name="Observer-Pattern" />
         <module name="Decorator-Pattern" />
       </profile>
