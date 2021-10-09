@@ -13,6 +13,13 @@ public class LightOffCommand implements Command {
         light.off();
     }
 
+    public void undo() {
+        // 获取先前状态
+        boolean status = light.getLightFormStatus();
+
+        light.setLightStatus(status);
+    }
+
     public void setLight(Light light){
         this.light = light;
     }

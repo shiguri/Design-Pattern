@@ -13,6 +13,11 @@ public class LightOnCommand implements Command {
         light.on();
     }
 
+    public void undo(){
+        boolean status = light.getLightFormStatus();
+        light.setLightStatus(status);
+    }
+
     public Light getLight(){
         return this.light;
     }

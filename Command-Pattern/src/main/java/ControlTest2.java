@@ -41,5 +41,13 @@ public class ControlTest2 {
         System.out.println(light1.getLightStatus());
         System.out.println(light2.getLightStatus());
         System.out.println(stereo.getStereoStatus());
+
+        remoteControl.undoButtonPressed(0);
+        remoteControl.undoButtonPressed(2);
+
+        System.out.println("=======");
+        System.out.println(light1.getLightStatus());
+        System.out.println(light2.getLightStatus());
+        System.out.println(stereo.getStereoStatus());
     }
 }

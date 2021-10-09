@@ -13,6 +13,11 @@ public class StereoOnCommand implements Command {
         this.stereo.on();
     }
 
+    public void undo() {
+        boolean status = stereo.getFormStereoStatus();
+        stereo.setStereoStatus(status);
+    }
+
     public Stereo getStereo() {
         return stereo;
     }
