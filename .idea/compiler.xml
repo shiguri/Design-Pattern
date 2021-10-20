@@ -10,6 +10,8 @@
         <module name="Factory-Pattern" />
         <module name="Command-Pattern" />
         <module name="Strategy-Pattern" />
+        <module name="Adapter-Pattern" />
+        <module name="Facade-Pattern" />
         <module name="Abstract-Factory-Pattern" />
         <module name="Observer-Pattern" />
         <module name="Decorator-Pattern" />

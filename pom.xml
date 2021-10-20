@@ -16,6 +16,8 @@
         <module>Abstract-Factory-Pattern</module>
         <module>Singleton-Pattern</module>
         <module>Command-Pattern</module>
+        <module>Adapter-Pattern</module>
+        <module>Facade-Pattern</module>
     </modules>
 
 
