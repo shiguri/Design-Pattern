@@ -18,6 +18,8 @@
         <module>Command-Pattern</module>
         <module>Adapter-Pattern</module>
         <module>Facade-Pattern</module>
+        <module>TemplateMethod-Pattern</module>
+        <module>Iterator-Pattern</module>
     </modules>
 
 

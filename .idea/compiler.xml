@@ -12,7 +12,9 @@
         <module name="Strategy-Pattern" />
         <module name="Adapter-Pattern" />
         <module name="Facade-Pattern" />
+        <module name="Iterator-Pattern" />
         <module name="Abstract-Factory-Pattern" />
+        <module name="TemplateMethod-Pattern" />
         <module name="Observer-Pattern" />
         <module name="Decorator-Pattern" />
       </profile>
