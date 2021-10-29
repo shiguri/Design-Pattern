@@ -15,12 +15,10 @@
         <module name="Iterator-Pattern" />
         <module name="Abstract-Factory-Pattern" />
         <module name="TemplateMethod-Pattern" />
+        <module name="Composite-Pattern" />
         <module name="Observer-Pattern" />
         <module name="Decorator-Pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Factory" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -20,6 +20,7 @@
         <module>Facade-Pattern</module>
         <module>TemplateMethod-Pattern</module>
         <module>Iterator-Pattern</module>
+        <module>Composite-Pattern</module>
     </modules>
 
 
