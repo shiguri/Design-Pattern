@@ -8,16 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Singleton-Pattern" />
         <module name="Factory-Pattern" />
-        <module name="Command-Pattern" />
-        <module name="Strategy-Pattern" />
         <module name="Adapter-Pattern" />
         <module name="Facade-Pattern" />
-        <module name="Iterator-Pattern" />
-        <module name="Abstract-Factory-Pattern" />
-        <module name="TemplateMethod-Pattern" />
         <module name="Composite-Pattern" />
         <module name="Observer-Pattern" />
         <module name="Decorator-Pattern" />
+        <module name="Command-Pattern" />
+        <module name="Strategy-Pattern" />
+        <module name="Iterator-Pattern" />
+        <module name="Abstract-Factory-Pattern" />
+        <module name="TemplateMethod-Pattern" />
+        <module name="State-Pattern" />
       </profile>
     </annotationProcessing>
   </component>
