@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Factory/pom.xml" />
+        <option value="$PROJECT_DIR$/RMI-Use/pom.xml" />
       </set>
     </option>
   </component>

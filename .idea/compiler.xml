@@ -13,13 +13,16 @@
         <module name="Composite-Pattern" />
         <module name="Observer-Pattern" />
         <module name="Decorator-Pattern" />
+        <module name="RMI" />
         <module name="Command-Pattern" />
         <module name="Strategy-Pattern" />
         <module name="Iterator-Pattern" />
         <module name="Abstract-Factory-Pattern" />
         <module name="TemplateMethod-Pattern" />
         <module name="State-Pattern" />
+        <module name="ProtectProxy" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
